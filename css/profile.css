@@ -1,0 +1,10 @@
+body{
+    padding-top: 10%;
+    text-align: left;
+    background-color: rgb(10, 21, 36);
+    color: mintcream;
+}
+
+.jumbotron{
+    background-color: rgb(24, 42, 68);
+}
